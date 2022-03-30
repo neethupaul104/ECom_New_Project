@@ -1,0 +1,16 @@
+{
+    "browsers": "chrome",
+    "src": "PageObjectModel/TestCase/*.js",
+    "screenshots": {
+        "path": "src/screenshots/",
+        "takeOnFails": true,
+        "fullPage": true
+    },
+    "videoPath": "src/videos/",
+    "reporter": {
+        "name": "html" ,
+        "output": "Reports/HTMLReports/htmlReport.html"        
+        
+    }
+    
+}

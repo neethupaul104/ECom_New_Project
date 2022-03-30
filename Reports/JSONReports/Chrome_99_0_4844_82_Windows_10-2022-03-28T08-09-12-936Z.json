@@ -1,0 +1,141 @@
+[
+  {
+    "description": "My Purchase",
+    "elements": [
+      {
+        "id": "ScenarioTest1 : URL loading ",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Test1 : URL loading",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Landmark\\Land_newProject\\PageObjectModel\\TestCase\\EndToEndTest.js:1:0"
+            },
+            "name": "Test1 : URL loading ",
+            "result": {
+              "duration": 20233,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Test1 : URL loading </a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioTest2 : Add items with filter and verify in My Bag ",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Test2 : Add items with filter and verify in My Bag",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "C:\\Landmark\\Land_newProject\\PageObjectModel\\TestCase\\EndToEndTest.js:1:0"
+            },
+            "name": "Test2 : Add items with filter and verify in My Bag ",
+            "result": {
+              "duration": 133283,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Test2 : Add items with filter and verify in My Bag </a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "My Purchase",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "99.0.4844.82"
+      },
+      "device": "Windows",
+      "platform": {
+        "name": "windows",
+        "version": "10"
+      },
+      "reportTime": "2022-03-28T08:09:12.938Z",
+      "startTime": "2022-03-28T08:06:38.322Z"
+    },
+    "name": "My Purchase",
+    "runInfo": {
+      "endTime": "2022-03-28T08:09:12.936Z",
+      "passed": 2,
+      "startTime": "2022-03-28T08:06:38.322Z",
+      "testCount": 2,
+      "userAgents": [
+        "Chrome 99.0.4844.82 / Windows 10"
+      ],
+      "warnings": [
+        "The \"src\", \"browsers\", and \"reporter\" options from the configuration file will be ignored.",
+        "The browser window was resized during the \"Test1 : URL loading \" test while TestCafe recorded a video. TestCafe cannot adjust the video resolution during recording. As a result, the video content may appear broken. Do not resize the browser window when TestCafe records a video."
+      ]
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@test2"
+      },
+      {
+        "line": 0,
+        "name": "@add"
+      },
+      {
+        "line": 0,
+        "name": "@items"
+      },
+      {
+        "line": 0,
+        "name": "@filter"
+      },
+      {
+        "line": 0,
+        "name": "@verify"
+      },
+      {
+        "line": 0,
+        "name": "@bag"
+      },
+      {
+        "line": 0,
+        "name": "@test1"
+      },
+      {
+        "line": 0,
+        "name": "@url"
+      },
+      {
+        "line": 0,
+        "name": "@loading"
+      },
+      {
+        "line": 0,
+        "name": "@purchase"
+      }
+    ],
+    "uri": "C:\\Landmark\\Land_newProject\\PageObjectModel\\TestCase\\EndToEndTest.js:1"
+  }
+]
